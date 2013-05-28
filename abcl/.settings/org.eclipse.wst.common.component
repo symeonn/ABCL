@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="abcl">
+        <wb-resource deploy-path="/" source-path="/abcl-src-1.0.1/src"/>
+        <wb-resource deploy-path="/" source-path="/abcl-src-1.0.1/examples/lisp-to-java"/>
+    </wb-module>
+</project-modules>
